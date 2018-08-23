@@ -3,12 +3,12 @@ ol {
     margin: 1;
     padding: 1;
     width: 1000px;
-    background-color: #bfb5b2;
+    background-color: #f1f1f1;
 }
 
 /* Change the link color on hover */
 body {
-    background-color: #bfb5b2;;
+    background-color: #f1f1f1;;
     color: black;
     padding: 0;
     margin: 0;
