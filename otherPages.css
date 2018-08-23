@@ -1,0 +1,48 @@
+ol {
+    list-style-type: circle;
+    margin: 1;
+    padding: 1;
+    width: 1000px;
+    background-color: #bfb5b2;
+}
+
+/* Change the link color on hover */
+body {
+    background-color: #bfb5b2;;
+    color: black;
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 1000px;
+    background-color: #f1f1f1;
+    overflow: hidden;
+}
+
+li a {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #83adb5;;
+    color: white;
+}
+
+#fitScreen {
+height: auto; /*if more info comes on the page, it will stretch down*/
+width: 1000px;
+margin: 0 auto; /*this will cause the div to be in the center*/
+}
